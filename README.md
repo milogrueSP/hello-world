@@ -1,2 +1,2 @@
 # hello-world
-GitHub Tuorial
+Some text, a bit about myself.
